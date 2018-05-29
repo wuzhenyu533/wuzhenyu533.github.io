@@ -21,7 +21,7 @@
 
 ## 关于模板(beta)
 
-我的博客仓库——`huxpro.github.io`，是经常修改的，而且还会有人乱提交代码，因此给大家做了一个稳定版的模板。大家可以直接fork模板——`huxblog-boilerplate`,要改的地方我都说明了。或者可以直接下载zip到本地自己去修改。
+我的博客仓库——`wuzhenyu533.github.io`，是经常修改的，而且还会有人乱提交代码，因此给大家做了一个稳定版的模板。大家可以直接fork模板——`huxblog-boilerplate`,要改的地方我都说明了。或者可以直接下载zip到本地自己去修改。
 
 ```
 $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
@@ -84,8 +84,8 @@ SEOTitle: Wu Blog 			# 在后面会详细谈到
 description: "Cool Blog"    # 随便说点，描述一下
 
 # SNS settings      
-github_username: huxpro     # 你的github账号
-weibo_username: huxpro      # 你的微博账号，底部链接会自动更新的。
+github_username: wuzhenyu     # 你的github账号
+weibo_username: wuzhenyu      # 你的微博账号，底部链接会自动更新的。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
@@ -105,7 +105,7 @@ layout:     post
 title:      "Hello 2015"
 subtitle:   "Hello World, Hello Blog"
 date:       2015-01-29 12:00:00
-author:     "Hux"
+author:     "wuzhenyu"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - Life
@@ -235,7 +235,7 @@ JavaScript 的压缩混淆、Less 的编译、Apache 2.0 许可通告的添加�
 #### Header Image
 
 标题底图是可以自己选的，看看几篇示例post你就知道如何设置了。在
-  [issue #6 ](https://github.com/Huxpro/huxpro.github.io/issues/6) 中我被问到：怎么样才能让标题底图好看呢？
+  [issue #6 ](https://wuzhenyu533.github.io) 中我被问到：怎么样才能让标题底图好看呢？
   
 标题底图的选取完全是看个人的审美了，我也帮不了你。每一篇文章可以有不同的底图，你想放什么就放什么，最后宽度要够，大小不要太大，否则加载慢啊。
 

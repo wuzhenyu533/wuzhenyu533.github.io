@@ -1,6 +1,6 @@
 > 记录
 
-多出没于[Github](https://wuzhenyu533.github.io/)、 等地带
+多出没于[Github](https://wuzhenyu533.github.io/)等地带
 
 
 
