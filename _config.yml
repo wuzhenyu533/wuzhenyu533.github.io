@@ -1,6 +1,6 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 吴振宇的博客 | Hux Blog
+title: Wu Blog 
+SEOTitle: 吴振宇的博客 | Wu Blog 
 header-img: img/home-bg.jpg
 email: 1303196434@qq.com
 description: "与你一起发现更大的世界"
@@ -61,7 +61,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: https://wuzhenyu533.github.io/
 
 
 
