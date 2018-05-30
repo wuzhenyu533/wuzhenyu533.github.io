@@ -1,0 +1,46 @@
+---
+layout:     post
+title:      "Markdown使用"
+subtitle:   " \"常规操作方式\""
+date:       2018-5-30 18:00:00
+author:     "wuzhenyu"
+header-img: "img/post-markdown"
+catalog: true
+tags:
+    - 工具使用
+---
+
+> “Markdown”
+> 用来写作的轻量级「标记语言」
+
+## 前言
+
+### 优点
+易读
+易写
+
+## 基础
+### 标题
+类 Atx 形式则是在行首插入 1 到 6 个 # ，对应到标题 1 到 6 阶
+类 Setext 形式是用底线的形式，利用 = （最高阶标题）和 - （第二阶标题）
+
+### 区块引用 Blockquotes
+> 的引用方式
+
+### HTML 表格
+注意点
+< 和 & 。 <lt; 符号用于起始标签，&lt; 符号则用于标记 HTML 实体
+显示这些字符的原型，你必须要使用实体的形式，像是 &lt; 和 &amp;
+一些 HTML 区块元素――比如 <div>、<table>、<pre>、<p> 等标签，必须在前后加上空行与其它内容区隔开，还要求它们的开始标签与结尾标签不能用制表符或空格来缩进。
+
+
+
+## 参考
+创始人 John Gruber 的 Markdown 语法说明https://daringfireball.net/projects/markdown/syntax
+Markdown 中文版语法说明http://wowubuntu.com/markdown/#list
+Markdown——入门指南https://www.jianshu.com/p/1e402922ee32/
+
+
+
+
+
