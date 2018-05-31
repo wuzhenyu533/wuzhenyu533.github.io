@@ -33,14 +33,23 @@ tags:
 显示这些字符的原型，你必须要使用实体的形式，像是 &lt; 和 &amp;
 一些 HTML 区块元素――比如 <div>、<table>、<pre>、<p> 等标签，必须在前后加上空行与其它内容区隔开，还要求它们的开始标签与结尾标签不能用制表符或空格来缩进。
 
+### 链接
 
+参考式链接
+参考式的链接是在链接文字的括号后面再接上另一个方括号，而在第二个方括号里面要填入用以辨识链接的标记：
+This is [an example][id] reference-style link.
+定义链接：
+
+
+[id]: 网址
 
 ## 参考
-创始人 John Gruber 的 Markdown 语法说明https://daringfireball.net/projects/markdown/syntax
-Markdown 中文版语法说明http://wowubuntu.com/markdown/#list
-Markdown——入门指南https://www.jianshu.com/p/1e402922ee32/
+[创始人 John Gruber 的 Markdown 语法说明][1]
+[Markdown 中文版语法说明][2]
+[Markdown——入门指南][3]
 
 
 
-
-
+[1]https://daringfireball.net/projects/markdown/syntax
+[2]http://wowubuntu.com/markdown/#list
+[3]https://www.jianshu.com/p/1e402922ee32/
